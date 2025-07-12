@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 2c868954bdee78b4eab7441fb80729ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 'ARM '
+    100002: arm holder
+    100004: BASE
+    100006: BATTERY
+    100008: 'BATTERY HOLDER '
+    100010: bluetooth module1
+    100012: BOARD
+    100014: BOLTS
+    100016: COPPER SLEEVE
+    100018: MegaPi_Board-Ultimate
+    100020: MegaPi_Pro_Encoder
+    100022: MegaPi_Pro_Encoder.001
+    100024: MegaPi_Pro_Encoder.002
+    100026: MegaPi_Pro_Encoder.003
+    100028: MegaPi_Shield_RJ25
+    100030: motor bit
+    100032: motor pins
+    100034: 'MOTOR WIRE '
+    100036: MOTORS
+    100038: PIN
+    100040: PLASTIC
+    100042: PLASTIC GEAR
+    100044: 'PLASTIC GEAR '
+    100046: //RootNode
+    100048: smol motor
+    100050: TRACK LINK
+    100052: TRACK LINK.002
+    100054: WHEELS
+    100056: WHEELS.001
+    100058: WHEELS.002
+    100060: WHEELS.003
+    100062: 'WHIRE HOLDER '
+    100064: WIRE
+    400000: 'ARM '
+    400002: arm holder
+    400004: BASE
+    400006: BATTERY
+    400008: 'BATTERY HOLDER '
+    400010: bluetooth module1
+    400012: BOARD
+    400014: BOLTS
+    400016: COPPER SLEEVE
+    400018: MegaPi_Board-Ultimate
+    400020: MegaPi_Pro_Encoder
+    400022: MegaPi_Pro_Encoder.001
+    400024: MegaPi_Pro_Encoder.002
+    400026: MegaPi_Pro_Encoder.003
+    400028: MegaPi_Shield_RJ25
+    400030: motor bit
+    400032: motor pins
+    400034: 'MOTOR WIRE '
+    400036: MOTORS
+    400038: PIN
+    400040: PLASTIC
+    400042: PLASTIC GEAR
+    400044: 'PLASTIC GEAR '
+    400046: //RootNode
+    400048: smol motor
+    400050: TRACK LINK
+    400052: TRACK LINK.002
+    400054: WHEELS
+    400056: WHEELS.001
+    400058: WHEELS.002
+    400060: WHEELS.003
+    400062: 'WHIRE HOLDER '
+    400064: WIRE
+    2100000: BASIC METAL BLUE_
+    2100002: rubber_
+    2100004: plastic
+    2100006: steal_
+    2100008: copper
+    2100010: PLASTIC GRAY_
+    2100012: Material
+    2100014: HOLDER
+    2100016: lambert1.004
+    2100018: lambert1.005
+    2100020: lambert1.006
+    2100022: lambert2SG
+    2100024: WIRES
+    2300000: 'ARM '
+    2300002: arm holder
+    2300004: BASE
+    2300006: BATTERY
+    2300008: 'BATTERY HOLDER '
+    2300010: bluetooth module1
+    2300012: BOARD
+    2300014: BOLTS
+    2300016: COPPER SLEEVE
+    2300018: MegaPi_Board-Ultimate
+    2300020: MegaPi_Pro_Encoder
+    2300022: MegaPi_Pro_Encoder.001
+    2300024: MegaPi_Pro_Encoder.002
+    2300026: MegaPi_Pro_Encoder.003
+    2300028: MegaPi_Shield_RJ25
+    2300030: motor bit
+    2300032: motor pins
+    2300034: 'MOTOR WIRE '
+    2300036: MOTORS
+    2300038: PIN
+    2300040: PLASTIC
+    2300042: PLASTIC GEAR
+    2300044: 'PLASTIC GEAR '
+    2300046: smol motor
+    2300048: TRACK LINK
+    2300050: TRACK LINK.002
+    2300052: WHEELS
+    2300054: WHEELS.001
+    2300056: WHEELS.002
+    2300058: WHEELS.003
+    2300060: 'WHIRE HOLDER '
+    2300062: WIRE
+    3300000: 'ARM '
+    3300002: arm holder
+    3300004: BASE
+    3300006: BATTERY
+    3300008: 'BATTERY HOLDER '
+    3300010: bluetooth module1
+    3300012: BOARD
+    3300014: BOLTS
+    3300016: COPPER SLEEVE
+    3300018: MegaPi_Board-Ultimate
+    3300020: MegaPi_Pro_Encoder
+    3300022: MegaPi_Pro_Encoder.001
+    3300024: MegaPi_Pro_Encoder.002
+    3300026: MegaPi_Pro_Encoder.003
+    3300028: MegaPi_Shield_RJ25
+    3300030: motor bit
+    3300032: motor pins
+    3300034: 'MOTOR WIRE '
+    3300036: MOTORS
+    3300038: PIN
+    3300040: PLASTIC
+    3300042: PLASTIC GEAR
+    3300044: 'PLASTIC GEAR '
+    3300046: smol motor
+    3300048: TRACK LINK
+    3300050: TRACK LINK.002
+    3300052: WHEELS
+    3300054: WHEELS.001
+    3300056: WHEELS.002
+    3300058: WHEELS.003
+    3300060: 'WHIRE HOLDER '
+    3300062: WIRE
+    4300000: 'ARM '
+    4300002: BASE
+    4300004: TRACK LINK
+    4300006: TRACK LINK.002
+    4300008: WHEELS
+    4300010: WHEELS.001
+    4300012: WHEELS.002
+    4300014: WHEELS.003
+    4300016: PLASTIC
+    4300018: BOARD
+    4300020: BOLTS
+    4300022: MOTORS
+    4300024: COPPER SLEEVE
+    4300026: PLASTIC GEAR
+    4300028: 'PLASTIC GEAR '
+    4300030: arm holder
+    4300032: 'MOTOR WIRE '
+    4300034: motor pins
+    4300036: 'WHIRE HOLDER '
+    4300038: PIN
+    4300040: motor bit
+    4300042: smol motor
+    4300044: BATTERY
+    4300046: 'BATTERY HOLDER '
+    4300048: MegaPi_Board-Ultimate
+    4300050: MegaPi_Shield_RJ25
+    4300052: MegaPi_Pro_Encoder.003
+    4300054: MegaPi_Pro_Encoder.002
+    4300056: MegaPi_Pro_Encoder.001
+    4300058: MegaPi_Pro_Encoder
+    4300060: bluetooth module1
+    4300062: WIRE
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

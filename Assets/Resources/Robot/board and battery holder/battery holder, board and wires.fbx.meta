@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: e5f396896dd2b9446b727f6968219bcc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BATTERY
+    100002: 'BATTERY HOLDER '
+    100004: //RootNode
+    100006: BATTERY.001
+    100008: BATTERY.002
+    100010: BATTERY.003
+    100012: BATTERY.004
+    100014: BATTERY.005
+    100016: bluetooth module1
+    100018: MegaPi_Board-Ultimate
+    100020: MegaPi_Pro_Encoder
+    100022: MegaPi_Pro_Encoder.001
+    100024: MegaPi_Pro_Encoder.002
+    100026: MegaPi_Pro_Encoder.003
+    100028: MegaPi_Shield_RJ25
+    100030: 'MOTOR WIRE '
+    100032: MOTORS.002
+    100034: PIN
+    100036: 'WHIRE HOLDER '
+    100038: WIRE
+    100040: WIRE.001
+    100042: WIRE.002
+    100044: WIRE.003
+    100046: WIRE.004
+    100048: WIRE.005
+    100050: WIRE.006
+    400000: BATTERY
+    400002: 'BATTERY HOLDER '
+    400004: //RootNode
+    400006: BATTERY.001
+    400008: BATTERY.002
+    400010: BATTERY.003
+    400012: BATTERY.004
+    400014: BATTERY.005
+    400016: bluetooth module1
+    400018: MegaPi_Board-Ultimate
+    400020: MegaPi_Pro_Encoder
+    400022: MegaPi_Pro_Encoder.001
+    400024: MegaPi_Pro_Encoder.002
+    400026: MegaPi_Pro_Encoder.003
+    400028: MegaPi_Shield_RJ25
+    400030: 'MOTOR WIRE '
+    400032: MOTORS.002
+    400034: PIN
+    400036: 'WHIRE HOLDER '
+    400038: WIRE
+    400040: WIRE.001
+    400042: WIRE.002
+    400044: WIRE.003
+    400046: WIRE.004
+    400048: WIRE.005
+    400050: WIRE.006
+    2100000: Material
+    2100002: HOLDER
+    2100004: lambert1.004
+    2100006: lambert1.005
+    2100008: lambert1.006
+    2100010: lambert2SG
+    2100012: plastic
+    2100014: steal_
+    2100016: WIRES
+    2300000: BATTERY
+    2300002: 'BATTERY HOLDER '
+    2300004: BATTERY.001
+    2300006: BATTERY.002
+    2300008: BATTERY.003
+    2300010: BATTERY.004
+    2300012: BATTERY.005
+    2300014: bluetooth module1
+    2300016: MegaPi_Board-Ultimate
+    2300018: MegaPi_Pro_Encoder
+    2300020: MegaPi_Pro_Encoder.001
+    2300022: MegaPi_Pro_Encoder.002
+    2300024: MegaPi_Pro_Encoder.003
+    2300026: MegaPi_Shield_RJ25
+    2300028: 'MOTOR WIRE '
+    2300030: MOTORS.002
+    2300032: PIN
+    2300034: 'WHIRE HOLDER '
+    2300036: WIRE
+    2300038: WIRE.001
+    2300040: WIRE.002
+    2300042: WIRE.003
+    2300044: WIRE.004
+    2300046: WIRE.005
+    2300048: WIRE.006
+    3300000: BATTERY
+    3300002: 'BATTERY HOLDER '
+    3300004: BATTERY.001
+    3300006: BATTERY.002
+    3300008: BATTERY.003
+    3300010: BATTERY.004
+    3300012: BATTERY.005
+    3300014: bluetooth module1
+    3300016: MegaPi_Board-Ultimate
+    3300018: MegaPi_Pro_Encoder
+    3300020: MegaPi_Pro_Encoder.001
+    3300022: MegaPi_Pro_Encoder.002
+    3300024: MegaPi_Pro_Encoder.003
+    3300026: MegaPi_Shield_RJ25
+    3300028: 'MOTOR WIRE '
+    3300030: MOTORS.002
+    3300032: PIN
+    3300034: 'WHIRE HOLDER '
+    3300036: WIRE
+    3300038: WIRE.001
+    3300040: WIRE.002
+    3300042: WIRE.003
+    3300044: WIRE.004
+    3300046: WIRE.005
+    3300048: WIRE.006
+    4300000: BATTERY
+    4300002: 'BATTERY HOLDER '
+    4300004: BATTERY.001
+    4300006: BATTERY.002
+    4300008: BATTERY.003
+    4300010: BATTERY.004
+    4300012: BATTERY.005
+    4300014: MegaPi_Board-Ultimate
+    4300016: MegaPi_Shield_RJ25
+    4300018: MegaPi_Pro_Encoder.003
+    4300020: MegaPi_Pro_Encoder.002
+    4300022: MegaPi_Pro_Encoder.001
+    4300024: MegaPi_Pro_Encoder
+    4300026: bluetooth module1
+    4300028: 'MOTOR WIRE '
+    4300030: 'WHIRE HOLDER '
+    4300032: MOTORS.002
+    4300034: PIN
+    4300036: WIRE
+    4300038: WIRE.001
+    4300040: WIRE.002
+    4300042: WIRE.003
+    4300044: WIRE.004
+    4300046: WIRE.005
+    4300048: WIRE.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
